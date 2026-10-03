@@ -1,0 +1,10 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "Draws the context window as a stacked bar above the prompt, one colour per /context category. Toggle with /context-bar.",
+  "author": { "name": "Jimmyeao", "url": "https://github.com/jimmyeao" },
+  "license": "MIT",
+  "repository": "https://github.com/jimmyeao/claude-code-bars",
+  "keywords": ["context", "tokens", "statusline", "ui"],
+  "types": "./types/index.d.ts"
+}

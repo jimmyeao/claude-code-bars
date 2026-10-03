@@ -1,0 +1,10 @@
+{
+  "name": "usage-bar",
+  "version": "0.1.0",
+  "description": "Draws your plan usage limits as bars above the prompt, one colour per window, flagging when you are using a window faster than its clock. Toggle with /usage-bar.",
+  "author": { "name": "Jimmyeao", "url": "https://github.com/jimmyeao" },
+  "license": "MIT",
+  "repository": "https://github.com/jimmyeao/claude-code-bars",
+  "keywords": ["usage", "limits", "statusline", "ui"],
+  "types": "./types/index.d.ts"
+}

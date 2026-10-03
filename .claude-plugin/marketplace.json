@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-bars",
+  "owner": { "name": "Jimmyeao", "url": "https://github.com/jimmyeao" },
+  "metadata": { "description": "Two small mods that draw your context window and plan usage as bars above the Claude Code prompt." },
+  "plugins": [
+    {
+      "name": "context-bar",
+      "source": "./plugins/context-bar",
+      "description": "The context window as a stacked bar above the prompt, one colour per /context category. Toggle with /context-bar."
+    },
+    {
+      "name": "usage-bar",
+      "source": "./plugins/usage-bar",
+      "description": "Plan usage limits as bars above the prompt, flagged when you are ahead of the clock. Toggle with /usage-bar."
+    }
+  ]
+}
